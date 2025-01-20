@@ -10,13 +10,10 @@ This repository serves as a showcase of my work with Power BI, including reports
 - **Title:** Data Visualization through Power BI  
 - **Description:** A report created during a 4-day Power BI workshop organized by Stat Modeller. This report demonstrates effective use of Power BI features to create interactive dashboards and meaningful insights.
 - **Key Features:**
-  - [Feature 1] (e.g., Dynamic slicers for filtering data)
-  - [Feature 2] (e.g., Trend analysis over time)
-  - [Feature 3] (e.g., KPI indicators for performance tracking)
-- **Files:**
-  - Report screenshot: `workshop-report.png`
-  - PBIX file: `workshop-report.pbix`
-  - PDF export: `workshop-report.pdf`
+   Dynamic slicers for filtering data
+   Trend analysis over time
+   KPI indicators for performance tracking
+   Power Query Editor for data transformation and data structuring
 ## Tools and Skills
 - **Tools:** Power BI Desktop, 
 - **Skills:** Data visualization, data modeling, PowerBI Query editor, storytelling with data
